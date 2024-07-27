@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#cardValue {
+  font-size: 10rem;
+}
+
+.suit {
+  font-size: 4rem;
+}
